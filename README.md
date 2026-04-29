@@ -19,6 +19,54 @@ I specialize in building scalable gameplay systems and working on full-cycle gam
 
 ## 🚀 Featured Projects
 
+### 🚨 Firefighting Rescue Simulator (PC, PS4)
+https://store.steampowered.com/app/4413390/Firefighting_Rescue_Simulator/
+
+- dynamic fire system (spread, suppression, behaviour depending on the material of the object)
+- vehicle controller (7 types of transport)
+- Contributed to gameplay systems and feature development  
+- Worked within production pipeline and team environment
+
+---
+
+### 🌱 Wild Roots (WebGL, Multiplayer)
+
+🎥 https://youtu.be/ldhiqsbM3Eg
+
+**Role:** Unity Developer  
+
+**Highlights:**
+- 50,000+ players  
+- 8.7 rating  
+
+**What I did:**
+- Developed multiplayer systems using Photon
+- Implemented combat, abilities, and player interactions
+- Built core gameplay loop and progression systems
+- Optimized performance for WebGL platform
+- Worked across full development cycle (prototype → release → support)
+
+---
+
+### 🚖 Back Driver Simulator (PS4, PS5)
+
+🔗 https://store.playstation.com/en-bg/concept/10018388/
+
+The core gameplay is built around a non-standard input model where the player does not control the vehicle directly, but instead issues commands to an AI-controlled driver (turn left/right, accelerate, brake). This creates an additional abstraction layer between player input and vehicle behavior.
+
+**Key technical aspects:**
+- Implemented indirect control system (command-based input → AI driver → vehicle controller)
+- Developed driver behavior logic interpreting player commands under dynamic conditions
+- Designed responsive control pipeline to maintain gameplay feel despite indirect input
+- Worked on synchronization between player intent and AI execution to avoid input frustration
+- Built gameplay systems around unpredictability and delayed response mechanics
+
+**Focus areas:**
+- Gameplay feel under non-direct control
+- AI-assisted player interaction
+- Handling edge cases (delays, misinterpretation of commands, collisions)
+- Designing systems that balance chaos and player agency
+
 ### 🏨 Motel Simulator (PS4 / PC)
 
 🔗 https://store.steampowered.com/app/2536970/Motel_Simulator__Create_Renovate__Grow_Business/
@@ -33,7 +81,6 @@ I specialize in building scalable gameplay systems and working on full-cycle gam
 - Worked on optimization and adaptation for PS4 (performance & memory constraints)
 
 **Key challenges:**
-- Scaling save/load system as new gameplay systems were added  
 - Maintaining performance on console hardware  
 
 ---
@@ -57,41 +104,19 @@ I specialize in building scalable gameplay systems and working on full-cycle gam
 
 ---
 
-### 🌱 Wild Roots (WebGL, Multiplayer)
-
-🎥 https://youtu.be/ldhiqsbM3Eg
-
-**Role:** Unity Developer  
-
-**Highlights:**
-- 50,000+ players  
-- 8.7 rating  
-
-**What I did:**
-- Developed multiplayer systems using Photon
-- Implemented combat, abilities, and player interactions
-- Built core gameplay loop and progression systems
-- Optimized performance for WebGL platform
-- Worked across full development cycle (prototype → release → support)
-
----
-
 ## 🧩 Tech Stack
 
 **Core:**  
 C#, OOP, SOLID  
 
 **Unity:**  
-Gameplay Systems, Physics, NavMesh, ScriptableObjects, Addressables  
+Physics 3D/2D, NavMesh, ScriptableObjects, Addressables
 
 **Networking:**  
-Photon  
-
-**Architecture:**  
-Zenject, Modular Systems  
+Photon (Fusion 2)
 
 **Tools:**  
-Git, DOTween, UniTask  
+Git, DOTween, UniTask, Zenject
 
 **Rendering:**  
 URP, HDRP  
@@ -100,8 +125,8 @@ URP, HDRP
 
 ## 📌 Additional Experience
 
-**Firefighting Rescue Simulator (Steam)**  
-https://store.steampowered.com/app/4413390/Firefighting_Rescue_Simulator/
+**Astronaut Simulator (PS4, PS5)**  
+https://store.playstation.com/en-bg/concept/10014970/
 
 - Contributed to gameplay systems and feature development  
 - Worked within production pipeline and team environment  
