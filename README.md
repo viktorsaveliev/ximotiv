@@ -2,7 +2,7 @@
 
 🎮 Unity Developer with 4+ years of commercial experience  
 🚀 Focus: Gameplay Systems, Multiplayer, Optimization  
-🕹️ Shipped projects on Steam & PlayStation (PS4)
+🕹️ Shipped projects on PC & PlayStation (PS4, PS5) and mobile platforms
 
 ---
 
@@ -12,7 +12,8 @@ I specialize in building scalable gameplay systems and working on full-cycle gam
 
 - Strong focus on architecture and maintainability
 - Experience with multiplayer systems (Photon)
-- Worked with console constraints (PS4 optimization)
+- Worked with console constraints (PS4, PS5 optimization)
+- Experience with mobile platforms
 - Comfortable owning features end-to-end
 
 ---
@@ -22,14 +23,18 @@ I specialize in building scalable gameplay systems and working on full-cycle gam
 ### 🚨 Firefighting Rescue Simulator (PC, PS4)
 https://store.steampowered.com/app/4413390/Firefighting_Rescue_Simulator/
 
-- dynamic fire system (spread, suppression, behaviour depending on the material of the object)
-- vehicle controller (7 types of transport)
-- Contributed to gameplay systems and feature development  
-- Worked within production pipeline and team environment
+**What I did:**
+- Dynamic fire system (spread, suppression, behaviour depending on the material of the object)
+- Vehicle controller (7 types of transport)
+- System for using items (axe, saw, crowbar, fire extinguisher, hose)
+- Injured characters
+- Mission systems
+- Graphics settings, post-processing, ambient lighting
+- Optimized performance for the PS4 platform
 
 ---
 
-### 🌱 Wild Roots (WebGL, Multiplayer)
+### 🌱 Wild Roots (WebGL, Android) - Multiplayer project
 
 🎥 https://youtu.be/ldhiqsbM3Eg
 
@@ -66,6 +71,8 @@ The core gameplay is built around a non-standard input model where the player do
 - AI-assisted player interaction
 - Handling edge cases (delays, misinterpretation of commands, collisions)
 - Designing systems that balance chaos and player agency
+
+---
 
 ### 🏨 Motel Simulator (PS4 / PC)
 
@@ -128,6 +135,7 @@ URP, HDRP
 **Astronaut Simulator (PS4, PS5)**  
 https://store.playstation.com/en-bg/concept/10014970/
 
+- A fully developed project 
 - Contributed to gameplay systems and feature development  
 - Worked within production pipeline and team environment  
 
