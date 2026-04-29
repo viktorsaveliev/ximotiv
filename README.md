@@ -24,13 +24,11 @@ I specialize in building scalable gameplay systems and working on full-cycle gam
 https://store.steampowered.com/app/4413390/Firefighting_Rescue_Simulator/
 
 **What I did:**
-- Dynamic fire system (spread, suppression, behaviour depending on the material of the object)
-- Vehicle controller (7 types of transport)
-- System for using items (axe, saw, crowbar, fire extinguisher, hose)
-- Injured characters
-- Mission systems
-- Graphics settings, post-processing, ambient lighting
-- Optimized performance for the PS4 platform
+- Designed dynamic fire system (spread, suppression, material-based behavior)
+- Implemented vehicle controller supporting 7 transport types
+- Built modular interaction system for tools (axe, hose, extinguisher, etc.)
+- Developed mission system and gameplay flow
+- Optimized performance for PS4 (memory & runtime constraints)
 
 ---
 
@@ -103,6 +101,7 @@ The core gameplay is built around a non-standard input model where the player do
 - Developed enemy AI and gameplay interactions
 - Built environment systems using physics, lighting, and VFX
 - Improved immersion via environmental feedback (fog, ambiance)
+- Worked on optimization and PS4 platform constraints
 
 **Focus:**
 - Gameplay feel  
@@ -123,7 +122,7 @@ Physics 3D/2D, NavMesh, ScriptableObjects, Addressables
 Photon (Fusion 2)
 
 **Tools:**  
-Git, DOTween, UniTask, Zenject
+Git, DOTween, UniTask, Zenject, Firebase
 
 **Rendering:**  
 URP, HDRP  
