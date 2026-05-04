@@ -75,6 +75,7 @@ The core gameplay is built around a non-standard input model where the player do
 ### 🏨 Motel Simulator (PS4 / PC)
 
 🔗 https://store.steampowered.com/app/2536970/Motel_Simulator__Create_Renovate__Grow_Business/
+🎥 https://www.youtube.com/watch?v=jqM0Ood7Bh4
 
 **Role:** Unity Developer  
 
